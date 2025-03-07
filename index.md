@@ -23,26 +23,14 @@ Embodied intelligence refers to the idea that intelligence emerges from the inte
 
 ## Recent Projects
 
-### Project 1: Bioprinting Tissues
-
-I've been working on a project to bioprint functional tissues using 3D printing technology. The goal is to create tissues that can be used for medical research and potentially for organ transplants.
-
-### Project 2: AI-Driven Robotics
-
-Another project involves developing AI algorithms for robots to learn and adapt to their environments. This is a step towards creating more autonomous and intelligent machines.
-
 ## Blog Posts
 
-- [Introduction to Biomanufacturing](/posts/biomanufacturing-intro)
-- [Exploring Embodied Intelligence](/posts/embodied-intelligence)
-- [Bioprinting: The Future of Medicine?](/posts/bioprinting-future)
 
 ## Contact Me
 
 Feel free to reach out if you have any questions or want to collaborate:
 
 - Email: [inktone1722@163.com](mailto:inktone1722@163.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - GitHub: [ink0410](https://github.com/ink0410)
 
 ---
